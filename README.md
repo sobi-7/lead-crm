@@ -4,11 +4,11 @@ A lightweight CRM application built for Profitcast's sales team to efficiently m
 
 ## Live Demo
 
-🔗 [Add Deployment URL Here]
+🔗 https://lead-crm-lemon.vercel.app
 
 ## GitHub Repository
 
-🔗 [Add GitHub Repository URL Here]
+🔗 https://github.com/sobi-7/lead-crm.git
 
 ---
 
